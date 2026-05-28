@@ -13,6 +13,9 @@ dist-ssr
 output
 *.local
 package-lock.json
+.rules
+.skills
+.docs
 
 # Editor directories and files
 .vscode/*
