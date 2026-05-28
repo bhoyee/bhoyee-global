@@ -98,6 +98,12 @@ const Contact: React.FC = () => {
         <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
           Have a question or want to start a project? Fill out the form below and our team will get back to you shortly.
         </p>
+        <a
+          href="mailto:hello@bhoyee.com"
+          className="inline-flex text-2xl font-bold text-primary transition-colors hover:text-primary/80"
+        >
+          hello@bhoyee.com
+        </a>
       </div>
 
       <div className="mx-auto max-w-3xl">

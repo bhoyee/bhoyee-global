@@ -75,6 +75,12 @@ const Footer: React.FC = () => {
             <Button asChild size="lg" className="h-12 px-8 text-base font-semibold">
               <Link to="/contact">Contact Us</Link>
             </Button>
+            <a
+              href="mailto:hello@bhoyee.com"
+              className="block text-lg font-semibold text-foreground transition-colors hover:text-primary"
+            >
+              hello@bhoyee.com
+            </a>
           </div>
         </div>
 
